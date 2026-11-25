@@ -21,7 +21,7 @@
 <!-- TYPING ANIMATION (SEQUÊNCIA DE BOOT & IDENTIDADE) -->
 <div align="center">
   <a href="https://github.com/ViniCandEXE">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&duration=3200&pause=1000&color=00F0FF&center=true&vCenter=true&repeat=true&width=780&height=55&lines=%5BBOOT%5D+Inicializando+m%C3%B3dulos+neurais...+%5B100%25+OK%5D;%3E_+Ol%C3%A1%2C+eu+sou+SEU_NOME+%E2%80%94+Software+Engineer+%26+AI+Builder;%3E_+Arquitetura+Escal%C3%A1vel+%7C+Full+Stack+%7C+Intelig%C3%AAncia+Artificial;%3E_+Transformando+c%C3%B3digo+em+sistemas+de+pr%C3%B3xima+gera%C3%A7%C3%A3o." alt="Animação de Digitação" />
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&duration=3200&pause=1000&color=00F0FF&center=true&vCenter=true&repeat=true&width=780&height=55&lines=%5BBOOT%5D+Inicializando+m%C3%B3dulos+neurais...+%5B100%25+OK%5D;%3E_+Ol%C3%A1%2C+eu+sou++%E2%80%94+Software+Engineer+%26+AI+Builder;%3E_+Arquitetura+Escal%C3%A1vel+%7C+Full+Stack+%7C+Intelig%C3%AAncia+Artificial;%3E_+Transformando+c%C3%B3digo+em+sistemas+de+pr%C3%B3xima+gera%C3%A7%C3%A3o." alt="Animação de Digitação" />
   </a>
 </div>
 
