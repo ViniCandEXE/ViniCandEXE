@@ -46,12 +46,11 @@ Sou um desenvolvedor apaixonado por engenharia de software. Meu foco é Back-end
 identidade:
   nome: "Vinicius Cândido"
   codinome: "@ViniCandEXE"
-  cargo: "Full Stack Software Engineer & AI Enthusiast"
+  cargo: "Full Stack Software Engineer"
   localizacao: "Brasil 🇧🇷"
 
 especificacoes_tecnicas:
   foco_principal: ["Arquitetura de Software", "Aplicações Web Modernas", "Sistemas com IA", "Back-end"]
-  mentalidade: "Clean Code, Performance First & Design System-Driven"
   disponibilidade: "Aberto a projetos"
 
 diretriz_primaria: >
@@ -73,38 +72,21 @@ diretriz_primaria: >
 
 #### `// LINGUAGENS & CORE`
 <p>
-  <img src="https://img.shields.io/badge/TypeScript-0D1117?style=for-the-badge&logo=java&logoColor=00F0FF" alt="Java" />
-  <img src="https://img.shields.io/badge/JavaScript-0D1117?style=for-the-badge&logo=python&logoColor=F7DF1E" alt="Python" />
-  <img src="https://img.shields.io/badge/Python-0D1117?style=for-the-badge&logo=javascript&logoColor=00F0FF" alt="JavaScript" />
-  <img src="https://img.shields.io/badge/Go-0D1117?style=for-the-badge&logo=postgresql&logoColor=00ADD8" alt="SQL" />
+  <img src="" alt="Java" />
+  <img src="" alt="Python" />
+  <img src="" alt="JavaScript" />
+  <img src="" alt="SQL" />
 </p>
-
-#### `// FRONTEND & INTERFACES`
-<p>
-  <img src="https://img.shields.io/badge/React-0D1117?style=for-the-badge&logo=react&logoColor=00F0FF" alt="React" />
-  <img src="https://img.shields.io/badge/Next.js-0D1117?style=for-the-badge&logo=nextdotjs&logoColor=FFFFFF" alt="Next.js" />
-  <img src="https://img.shields.io/badge/Vite-0D1117?style=for-the-badge&logo=vite&logoColor=BD00FF" alt="Vite" />
-  <img src="https://img.shields.io/badge/HTML5_%26_CSS3-0D1117?style=for-the-badge&logo=html5&logoColor=00F0FF" alt="HTML5 & CSS3" />
-</p>
-
-#### `// BACKEND, IA & DADOS`
-<p>
-  <img src="https://img.shields.io/badge/Node.js-0D1117?style=for-the-badge&logo=nodedotjs&logoColor=00F0FF" alt="Node.js" />
-  <img src="https://img.shields.io/badge/FastAPI-0D1117?style=for-the-badge&logo=fastapi&logoColor=00F0FF" alt="FastAPI" />
-  <img src="https://img.shields.io/badge/PyTorch-0D1117?style=for-the-badge&logo=pytorch&logoColor=BD00FF" alt="PyTorch" />
-  <img src="https://img.shields.io/badge/PostgreSQL-0D1117?style=for-the-badge&logo=postgresql&logoColor=00F0FF" alt="PostgreSQL" />
-</p>
-
 </div>
 
 <br />
 
 <!-- SEÇÃO: FERRAMENTAS UTILIZADAS -->
-## `03 // ARSENAL_&_FERRAMENTAS.dock`
+## `03 // ARSENAL & FERRAMENTAS`
 
 <div align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=docker,kubernetes,aws,gcp,linux,git,github,githubactions,vscode,neovim,figma,postman,vercel,terraform&perline=7&theme=dark" alt="Ferramentas e DevOps" />
+    <img src="https://skillicons.dev/icons?i=docker,java,azure,git,github,intellij,vscode,neovim,figma,postman,vercel&perline=7&theme=dark" alt="Ferramentas e DevOps" />
   </a>
 </div>
 
@@ -120,15 +102,11 @@ diretriz_primaria: >
 
 <div align="center">
   <a href="https://github.com/ViniCandEXE/PROJETO_1">
-    <img width="48%" src="https://sstartin.vercel.app/&bg_color=0D1117&title_color=00F0FF&text_color=E6EDF3&icon_color=BD00FF&border_color=00F0FF&border_radius=10" alt="StartIn" />
+    <img width="48%" src="https://sstartin.vercel.app/" alt="StartIn" />
     </a>
 </div>
 
 <br />
-
-<details>
-  <summary><b>⚡ EXPANDIR MATRIZ DE DEPLOYMENTS & ARQUITETURA</b></summary>
-  <br />
 
 | Sistema | Descrição | Stack Principal | Status | Acesso |
 | :--- | :--- | :--- | :---: | :---: |
@@ -165,30 +143,6 @@ diretriz_primaria: >
   <p>
     <img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=ViniCandEXE&bg_color=0D1117&color=00F0FF&line=BD00FF&point=00F0FF&area=true&area_color=00F0FF&hide_border=false&border_color=00F0FF&radius=10&custom_title=TELEMETRIA%20DE%20CONTRIBUI%C3%87%C3%95ES%20EM%20TEMPO%20REAL" alt="Gráfico de Atividade do GitHub" />
   </p>
-</div>
-
-<br />
-
-<!-- SEÇÃO: GITHUB TROPHIES -->
-## `07 // CONQUISTAS_&_TROFÉUS.log`
-
-<div align="center">
-  <a href="https://github.com/ViniCandEXE">
-    <img width="100%" src="https://github-profile-trophy.vercel.app/?username=ViniCandEXE&theme=tokyonight&no-bg=true&no-frame=false&margin-w=8&margin-h=8&column=7" alt="GitHub Trophies" />
-  </a>
-</div>
-
-<br />
-
-<!-- SEÇÃO: SNAKE CONTRIBUTION ANIMATION -->
-## `08 // PROTOCOLO_SNAKE.sim`
-
-<div align="center">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/ViniCandEXE/ViniCandEXE/output/github-contribution-grid-snake-dark.svg" />
-    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/ViniCandEXE/ViniCandEXE/output/github-contribution-grid-snake.svg" />
-    <img alt="Animação Snake de Contribuições do GitHub" src="https://raw.githubusercontent.com/ViniCandEXE/ViniCandEXE/output/github-contribution-grid-snake-dark.svg" />
-  </picture>
 </div>
 
 <br />
