@@ -66,7 +66,7 @@ diretriz_primaria: >
 <br />
 
 <!-- SEÇÃO: TECH STACK -->
-## `02 // TECH_STACK.matrix`
+## `02 // TECH STACK`
 
 <div align="center">
 
@@ -88,7 +88,7 @@ diretriz_primaria: >
 
 <div align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=docker,java,spring,azure,git,github,idea,vscode,neovim,figma,postman,vercel&perline=6&theme=dark" alt="Ferramentas e DevOps" />
+    <img src="https://skillicons.dev/icons?i=docker,java,spring,azure,git,github,idea,vscode,neovim,figma,postman,vercel=6&theme=dark" alt="Ferramentas e DevOps" />
   </a>
 </div>
 
@@ -96,27 +96,6 @@ diretriz_primaria: >
 
 <!-- DIVISOR LASER NEON (GRADIENTE VICE SUNSET) -->
 <img width="100%" src="https://capsule-render.vercel.app/api?type=rect&color=0:0D1117,25:9D4EDD,50:FF2A85,75:FF7B3B,100:0D1117&height=2" alt="Divisor Neon" />
-
-<br />
-
-<!-- SEÇÃO: PROJETOS EM CARDS -->
-## `04 // PROJETOS EM DESTAQUE`
-
-<div align="center">
-  <!-- DICA: Troque "PROJETO_1" no link da imagem pelo nome exato do repositório no GitHub -->
-  <a href="https://sstartin.vercel.app/" target="_blank">
-    <img width="48%" src="https://github-readme-stats.vercel.app/api/pin/?username=ViniCandEXE&repo=PROJETO_1&bg_color=130B24&title_color=FF2A85&icon_color=FF7B3B&text_color=F8FAFC&border_color=FF2A85&border_radius=10" alt="StartIn" />
-  </a>
-</div>
-
-<br />
-
-| Sistema | Descrição | Stack Principal | Status | Acesso |
-| :--- | :--- | :--- | :---: | :---: |
-| **`NEURAL-OS`** | Assistente autônomo multimodal com RAG e agentes | `Python` `FastAPI` `Next.js` | ![Online](https://img.shields.io/badge/ONLINE-FF2A85?style=flat-square&labelColor=130B24) | [Deploy](https://seu-link.com) |
-| **`CYBER-GRID`** | Dashboard de telemetria em tempo real com WebSockets | `TypeScript` `React` `Redis` | ![Active](https://img.shields.io/badge/ACTIVE-FF7B3B?style=flat-square&labelColor=130B24) | [Deploy](https://seu-link.com) |
-| **`HYPER-API`** | Gateway de microsserviços de baixa latência | `Go` `Docker` `PostgreSQL` | ![Stable](https://img.shields.io/badge/STABLE-FFD166?style=flat-square&labelColor=130B24) | [Docs](https://seu-link.com) |
-| **`SYNTH-UI`** | Biblioteca de componentes acessíveis em tema escuro | `React` `Tailwind` `Storybook` | ![Beta](https://img.shields.io/badge/BETA-9D4EDD?style=flat-square&labelColor=130B24) | [NPM](https://seu-link.com) |
 
 <br />
 
@@ -126,7 +105,7 @@ diretriz_primaria: >
 <br />
 
 <!-- SEÇÃO: TELEMETRIA & GITHUB STATS -->
-## `06 // TELEMETRIA GITHUB`
+## `04 // TELEMETRIA GITHUB`
 
 <div align="center">
   <!-- GITHUB STATS + TOP LANGUAGES -->
@@ -154,26 +133,13 @@ diretriz_primaria: >
 <br />
 
 <!-- SEÇÃO: REDES SOCIAIS & CONEXÃO -->
-## `09 // CANAIS_DE_TRANSMISSÃO.net`
+## `05 // CANAIS_DE_TRANSMISSÃO.net`
 
 <div align="center">
   <p>
     <a href="https://www.linkedin.com/in/vinicius-c%C3%A2ndido-nader-b71454308/" target="_blank">
       <img src="https://custom-icon-badges.demolab.com/badge/LinkedIn-130B24?style=for-the-badge&logo=linkedin-white&logoColor=FF2A85" alt="LinkedIn" />
     </a>
-    <a href="https://x.com/SEU_TWITTER" target="_blank">
-      <img src="https://img.shields.io/badge/X%20%2F%20Twitter-130B24?style=for-the-badge&logo=x&logoColor=FF7B3B" alt="X / Twitter" />
-    </a>
-    <a href="https://discord.com/users/SEU_DISCORD" target="_blank">
-      <img src="https://img.shields.io/badge/Discord-130B24?style=for-the-badge&logo=discord&logoColor=9D4EDD" alt="Discord" />
-    </a>
-    <a href="https://instagram.com/SEU_INSTAGRAM" target="_blank">
-      <img src="https://img.shields.io/badge/Instagram-130B24?style=for-the-badge&logo=instagram&logoColor=FF2A85" alt="Instagram" />
-    </a>
-    <a href="mailto:seu.email@dominio.com">
-      <img src="https://img.shields.io/badge/Email-130B24?style=for-the-badge&logo=gmail&logoColor=FFD166" alt="Email" />
-    </a>
-  </p>
   <sub><b>// PROTOCOLO DE CONTATO ABERTO — RESPOSTA EM ATÉ 24H</b></sub>
 </div>
 
