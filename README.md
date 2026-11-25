@@ -1,11 +1,11 @@
 <!-- ========================================================================= -->
-<!--  J.A.R.V.I.S. // CYBERPUNK NEURAL INTERFACE — GITHUB PROFILE README       -->
+<!--  GLaDOS // CYBERPUNK NEURAL INTERFACE — GITHUB PROFILE README       -->
 <!--  DICA: Use Ctrl + H e substitua "ViniCandEXE" pelo seu username do GitHub -->
 <!-- ========================================================================= -->
 
 <!-- BANNER PRINCIPAL COM EFEITO DE INICIALIZAÇÃO DO SISTEMA -->
 <div align="center">
-  <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:050816,50:0B132B,100:1E1B4B&height=230&section=header&text=SYSTEM%20ONLINE&fontSize=56&fontColor=00F0FF&fontAlignY=38&animation=twinkling&stroke=00F0FF&strokeWidth=1&desc=J.A.R.V.I.S.%20NEURAL%20PROTOCOL%20%E2%80%A2%20INTERFACE%20v4.2%20%E2%80%A2%20INITIALIZING%20CORE...&descAlignY=60&descSize=15&descColor=E2E8F0" alt="Banner de Inicialização do Sistema" />
+  <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:050816,50:0B132B,100:1E1B4B&height=230&section=header&text=SYSTEM%20ONLINE&fontSize=56&fontColor=00F0FF&fontAlignY=38&animation=twinkling&stroke=00F0FF&strokeWidth=1&desc=GLaDOS%20NEURAL%20PROTOCOL%20%E2%80%A2%20INTERFACE%20v4.2%20%E2%80%A2%20INITIALIZING%20CORE...&descAlignY=60&descSize=15&descColor=E2E8F0" alt="Banner de Inicialização do Sistema" />
 </div>
 
 <!-- BARRA DE STATUS HUD -->
