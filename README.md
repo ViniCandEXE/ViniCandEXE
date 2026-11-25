@@ -33,11 +33,11 @@
 <br />
 
 <!-- SEÇÃO: SOBRE MIM -->
-## `01 // SOBRE_MIM.sys`
+## `01 // SOBRE MIM`
 
-> *"Hello There"*
+> *"Quem sou?"*
 
-Sou um desenvolvedor apaixonado por engenharia de software de alta performance, interfaces futuristas e sistemas inteligentes. Meu foco está em construir aplicações escaláveis, resilientes e centradas na experiência do usuário, unindo boas práticas de arquitetura com o poder da Inteligência Artificial moderna.
+Sou um desenvolvedor apaixonado por engenharia de software. Meu foco é Back-end, Gosto de utilizar Java + Spring para as construções, e Python para automações e usos de IA.
 
 ```yaml
 # ==========================================================
@@ -73,20 +73,16 @@ diretriz_primaria: >
 
 #### `// LINGUAGENS & CORE`
 <p>
-  <img src="https://img.shields.io/badge/TypeScript-0D1117?style=for-the-badge&logo=typescript&logoColor=00F0FF" alt="TypeScript" />
-  <img src="https://img.shields.io/badge/JavaScript-0D1117?style=for-the-badge&logo=javascript&logoColor=F7DF1E" alt="JavaScript" />
-  <img src="https://img.shields.io/badge/Python-0D1117?style=for-the-badge&logo=python&logoColor=00F0FF" alt="Python" />
-  <img src="https://img.shields.io/badge/Go-0D1117?style=for-the-badge&logo=go&logoColor=00ADD8" alt="Go" />
-  <img src="https://img.shields.io/badge/Rust-0D1117?style=for-the-badge&logo=rust&logoColor=BD00FF" alt="Rust" />
-  <img src="https://img.shields.io/badge/SQL-0D1117?style=for-the-badge&logo=postgresql&logoColor=00F0FF" alt="SQL" />
+  <img src="https://img.shields.io/badge/TypeScript-0D1117?style=for-the-badge&logo=java&logoColor=00F0FF" alt="Java" />
+  <img src="https://img.shields.io/badge/JavaScript-0D1117?style=for-the-badge&logo=python&logoColor=F7DF1E" alt="Python" />
+  <img src="https://img.shields.io/badge/Python-0D1117?style=for-the-badge&logo=javascript&logoColor=00F0FF" alt="JavaScript" />
+  <img src="https://img.shields.io/badge/Go-0D1117?style=for-the-badge&logo=postgresql&logoColor=00ADD8" alt="SQL" />
 </p>
 
 #### `// FRONTEND & INTERFACES`
 <p>
   <img src="https://img.shields.io/badge/React-0D1117?style=for-the-badge&logo=react&logoColor=00F0FF" alt="React" />
   <img src="https://img.shields.io/badge/Next.js-0D1117?style=for-the-badge&logo=nextdotjs&logoColor=FFFFFF" alt="Next.js" />
-  <img src="https://img.shields.io/badge/Tailwind_CSS-0D1117?style=for-the-badge&logo=tailwindcss&logoColor=00F0FF" alt="Tailwind CSS" />
-  <img src="https://img.shields.io/badge/Three.js-0D1117?style=for-the-badge&logo=threedotjs&logoColor=BD00FF" alt="Three.js" />
   <img src="https://img.shields.io/badge/Vite-0D1117?style=for-the-badge&logo=vite&logoColor=BD00FF" alt="Vite" />
   <img src="https://img.shields.io/badge/HTML5_%26_CSS3-0D1117?style=for-the-badge&logo=html5&logoColor=00F0FF" alt="HTML5 & CSS3" />
 </p>
@@ -95,11 +91,8 @@ diretriz_primaria: >
 <p>
   <img src="https://img.shields.io/badge/Node.js-0D1117?style=for-the-badge&logo=nodedotjs&logoColor=00F0FF" alt="Node.js" />
   <img src="https://img.shields.io/badge/FastAPI-0D1117?style=for-the-badge&logo=fastapi&logoColor=00F0FF" alt="FastAPI" />
-  <img src="https://img.shields.io/badge/NestJS-0D1117?style=for-the-badge&logo=nestjs&logoColor=BD00FF" alt="NestJS" />
   <img src="https://img.shields.io/badge/PyTorch-0D1117?style=for-the-badge&logo=pytorch&logoColor=BD00FF" alt="PyTorch" />
   <img src="https://img.shields.io/badge/PostgreSQL-0D1117?style=for-the-badge&logo=postgresql&logoColor=00F0FF" alt="PostgreSQL" />
-  <img src="https://img.shields.io/badge/Redis-0D1117?style=for-the-badge&logo=redis&logoColor=FF007F" alt="Redis" />
-  <img src="https://img.shields.io/badge/GraphQL-0D1117?style=for-the-badge&logo=graphql&logoColor=BD00FF" alt="GraphQL" />
 </p>
 
 </div>
@@ -123,11 +116,11 @@ diretriz_primaria: >
 <br />
 
 <!-- SEÇÃO: PROJETOS EM CARDS -->
-## `04 // PROJETOS_EM_DESTAQUE.deploy`
+## `04 // PROJETOS EM DESTAQUE`
 
 <div align="center">
   <a href="https://github.com/ViniCandEXE/PROJETO_1">
-    <img width="48%" src="https://sstartin.vercel.app/&bg_color=0D1117&title_color=00F0FF&text_color=E6EDF3&icon_color=BD00FF&border_color=00F0FF&border_radius=10" alt="Projeto 1" />
+    <img width="48%" src="https://sstartin.vercel.app/&bg_color=0D1117&title_color=00F0FF&text_color=E6EDF3&icon_color=BD00FF&border_color=00F0FF&border_radius=10" alt="StartIn" />
     </a>
 </div>
 
@@ -153,34 +146,8 @@ diretriz_primaria: >
 
 <br />
 
-<!-- SEÇÃO: OBJETIVOS ATUAIS EM FORMATO DE TERMINAL -->
-## `05 // OBJETIVOS_ATUAIS.sh`
-
-```bash
-jarvis@neural-core:~$ ./roadmap --status --active
-
-[INFO] Sincronizando diretrizes estratégicas do operador...
-───────────────────────────────────────────────────────────────────────────────
- ID    MISSÃO                                      PROGRESSO          PRIORIDADE
-───────────────────────────────────────────────────────────────────────────────
- [01]  Arquitetar sistemas multi-agentes com IA    [████████░░] 80%   ● HIGH
- [02]  Dominar Cloud Native, Kubernetes & Rust     [███████░░░] 70%   ● HIGH
- [03]  Contribuir ativamente em projetos OpenSrc   [██████░░░░] 60%   ● ACTIVE
- [04]  Publicar artigos técnicos de arquitetura    [█████░░░░░] 50%   ● ACTIVE
- [05]  Construir um SaaS escalável do zero         [████░░░░░░] 40%   ● QUEUED
-───────────────────────────────────────────────────────────────────────────────
-[OK] Todos os subsistemas operacionais. Aguardando próximo commit_
-```
-
-<br />
-
-<!-- DIVISOR LASER NEON -->
-<img width="100%" src="https://capsule-render.vercel.app/api?type=rect&color=0:0D1117,25:00F0FF,50:BD00FF,75:00F0FF,100:0D1117&height=2" alt="Divisor Neon" />
-
-<br />
-
 <!-- SEÇÃO: TELEMETRIA & GITHUB STATS -->
-## `06 // TELEMETRIA_GITHUB.hud`
+## `06 // TELEMETRIA GITHUB`
 
 <div align="center">
   <!-- GITHUB STATS + TOP LANGUAGES -->
@@ -236,12 +203,10 @@ jarvis@neural-core:~$ ./roadmap --status --active
 
 <div align="center">
   <p>
-    <a href="https://www.linkedin.com/in/SEU_LINKEDIN" target="_blank">
+    <a href="https://www.linkedin.com/in/vinicius-c%C3%A2ndido-nader-b71454308/" target="_blank">
       <img src="https://img.shields.io/badge/LinkedIn-0D1117?style=for-the-badge&logo=linkedin&logoColor=00F0FF" alt="LinkedIn" />
     </a>
-    <a href="https://seu-portfolio.com" target="_blank">
-      <img src="https://img.shields.io/badge/Portf%C3%B3lio-0D1117?style=for-the-badge&logo=vercel&logoColor=BD00FF" alt="Portfólio" />
-    </a>
+  
     <a href="https://x.com/SEU_TWITTER" target="_blank">
       <img src="https://img.shields.io/badge/X%20%2F%20Twitter-0D1117?style=for-the-badge&logo=x&logoColor=00F0FF" alt="X / Twitter" />
     </a>
