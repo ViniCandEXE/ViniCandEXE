@@ -140,7 +140,6 @@ diretriz_primaria: >
     <a href="https://www.linkedin.com/in/vinicius-c%C3%A2ndido-nader-b71454308/" target="_blank">
       <img src="https://custom-icon-badges.demolab.com/badge/LinkedIn-130B24?style=for-the-badge&logo=linkedin-white&logoColor=FF2A85" alt="LinkedIn" />
     </a>
-  <sub><b>// PROTOCOLO DE CONTATO ABERTO — RESPOSTA EM ATÉ 24H</b></sub>
 </div>
 
 <br />
