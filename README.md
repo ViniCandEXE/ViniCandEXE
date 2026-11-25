@@ -47,15 +47,7 @@ identidade:
   nome: "Vinicius Cândido"
   codinome: "@ViniCandEXE"
   cargo: "Full Stack Software Engineer"
-  localizacao: "Brasil 🇧🇷"
-
-especificacoes_tecnicas:
-  foco_principal: ["Arquitetura de Software", "Aplicações Web Modernas", "Sistemas com IA", "Back-end"]
-  disponibilidade: "Aberto a projetos"
-
-diretriz_primaria: >
-  Projetar soluções elegantes para problemas complexos, mantendo
-  alta observabilidade, segurança e experiência visual impecável.
+  localizacao: "Brasil"
 ```
 
 <br />
