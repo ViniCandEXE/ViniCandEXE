@@ -1,6 +1,6 @@
 <!-- ========================================================================= -->
 <!--  J.A.R.V.I.S. // CYBERPUNK NEURAL INTERFACE — GITHUB PROFILE README       -->
-<!--  DICA: Use Ctrl + H e substitua "SEU_USUARIO" pelo seu username do GitHub -->
+<!--  DICA: Use Ctrl + H e substitua "ViniCandEXE" pelo seu username do GitHub -->
 <!-- ========================================================================= -->
 
 <!-- BANNER PRINCIPAL COM EFEITO DE INICIALIZAÇÃO DO SISTEMA -->
@@ -13,7 +13,7 @@
   <img src="https://img.shields.io/badge/STATUS-ONLINE-00F0FF?style=for-the-badge&logo=statuspage&logoColor=00F0FF&labelColor=0D1117" alt="Status Online" />
   <img src="https://img.shields.io/badge/AI%20CORE-ACTIVE-BD00FF?style=for-the-badge&logo=openai&logoColor=BD00FF&labelColor=0D1117" alt="AI Core Active" />
   <img src="https://img.shields.io/badge/CLEARANCE-LEVEL%205-00F0FF?style=for-the-badge&logo=shield&logoColor=00F0FF&labelColor=0D1117" alt="Clearance Level" />
-  <img src="https://komarev.com/ghpvc/?username=SEU_USUARIO&label=TRANSMISS%C3%95ES&color=BD00FF&labelColor=0D1117&style=for-the-badge" alt="Contador de Visualizações" />
+  <img src="https://komarev.com/ghpvc/?username=ViniCandEXE&label=TRANSMISS%C3%95ES&color=BD00FF&labelColor=0D1117&style=for-the-badge" alt="Contador de Visualizações" />
 </div>
 
 <br />
@@ -126,7 +126,7 @@ diretriz_primaria: >
 ## `04 // PROJETOS_EM_DESTAQUE.deploy`
 
 <div align="center">
-  <a href="https://github.com/SEU_USUARIO/PROJETO_1">
+  <a href="https://github.com/ViniCandEXE/PROJETO_1">
     <img width="48%" src="https://sstartin.vercel.app/&bg_color=0D1117&title_color=00F0FF&text_color=E6EDF3&icon_color=BD00FF&border_color=00F0FF&border_radius=10" alt="Projeto 1" />
     </a>
 </div>
@@ -185,18 +185,18 @@ jarvis@neural-core:~$ ./roadmap --status --active
 <div align="center">
   <!-- GITHUB STATS + TOP LANGUAGES -->
   <p>
-    <img height="175" src="https://github-readme-stats.vercel.app/api?username=SEU_USUARIO&show_icons=true&count_private=true&include_all_commits=true&bg_color=0D1117&title_color=00F0FF&icon_color=BD00FF&text_color=E6EDF3&border_color=00F0FF&border_radius=10&rank_icon=github" alt="GitHub Stats" />
-    <img height="175" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SEU_USUARIO&layout=compact&langs_count=8&bg_color=0D1117&title_color=00F0FF&text_color=E6EDF3&border_color=00F0FF&border_radius=10" alt="Top Languages" />
+    <img height="175" src="https://github-readme-stats.vercel.app/api?username=ViniCandEXE&show_icons=true&count_private=true&include_all_commits=true&bg_color=0D1117&title_color=00F0FF&icon_color=BD00FF&text_color=E6EDF3&border_color=00F0FF&border_radius=10&rank_icon=github" alt="GitHub Stats" />
+    <img height="175" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ViniCandEXE&layout=compact&langs_count=8&bg_color=0D1117&title_color=00F0FF&text_color=E6EDF3&border_color=00F0FF&border_radius=10" alt="Top Languages" />
   </p>
 
   <!-- STREAK STATS -->
   <p>
-    <img src="https://streak-stats.demolab.com?user=SEU_USUARIO&background=0D1117&border=00F0FF&stroke=1E293B&ring=00F0FF&fire=BD00FF&currStreakNum=00F0FF&sideNums=E6EDF3&currStreakLabel=00F0FF&sideLabels=E6EDF3&dates=94A3B8&border_radius=10" alt="GitHub Streak Stats" />
+    <img src="https://streak-stats.demolab.com?user=ViniCandEXE&background=0D1117&border=00F0FF&stroke=1E293B&ring=00F0FF&fire=BD00FF&currStreakNum=00F0FF&sideNums=E6EDF3&currStreakLabel=00F0FF&sideLabels=E6EDF3&dates=94A3B8&border_radius=10" alt="GitHub Streak Stats" />
   </p>
 
   <!-- ACTIVITY GRAPH -->
   <p>
-    <img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=SEU_USUARIO&bg_color=0D1117&color=00F0FF&line=BD00FF&point=00F0FF&area=true&area_color=00F0FF&hide_border=false&border_color=00F0FF&radius=10&custom_title=TELEMETRIA%20DE%20CONTRIBUI%C3%87%C3%95ES%20EM%20TEMPO%20REAL" alt="Gráfico de Atividade do GitHub" />
+    <img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=ViniCandEXE&bg_color=0D1117&color=00F0FF&line=BD00FF&point=00F0FF&area=true&area_color=00F0FF&hide_border=false&border_color=00F0FF&radius=10&custom_title=TELEMETRIA%20DE%20CONTRIBUI%C3%87%C3%95ES%20EM%20TEMPO%20REAL" alt="Gráfico de Atividade do GitHub" />
   </p>
 </div>
 
@@ -206,8 +206,8 @@ jarvis@neural-core:~$ ./roadmap --status --active
 ## `07 // CONQUISTAS_&_TROFÉUS.log`
 
 <div align="center">
-  <a href="https://github.com/SEU_USUARIO">
-    <img width="100%" src="https://github-profile-trophy.vercel.app/?username=SEU_USUARIO&theme=tokyonight&no-bg=true&no-frame=false&margin-w=8&margin-h=8&column=7" alt="GitHub Trophies" />
+  <a href="https://github.com/ViniCandEXE">
+    <img width="100%" src="https://github-profile-trophy.vercel.app/?username=ViniCandEXE&theme=tokyonight&no-bg=true&no-frame=false&margin-w=8&margin-h=8&column=7" alt="GitHub Trophies" />
   </a>
 </div>
 
@@ -218,9 +218,9 @@ jarvis@neural-core:~$ ./roadmap --status --active
 
 <div align="center">
   <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/SEU_USUARIO/SEU_USUARIO/output/github-contribution-grid-snake-dark.svg" />
-    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/SEU_USUARIO/SEU_USUARIO/output/github-contribution-grid-snake.svg" />
-    <img alt="Animação Snake de Contribuições do GitHub" src="https://raw.githubusercontent.com/SEU_USUARIO/SEU_USUARIO/output/github-contribution-grid-snake-dark.svg" />
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/ViniCandEXE/ViniCandEXE/output/github-contribution-grid-snake-dark.svg" />
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/ViniCandEXE/ViniCandEXE/output/github-contribution-grid-snake.svg" />
+    <img alt="Animação Snake de Contribuições do GitHub" src="https://raw.githubusercontent.com/ViniCandEXE/ViniCandEXE/output/github-contribution-grid-snake-dark.svg" />
   </picture>
 </div>
 
